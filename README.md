@@ -9,4 +9,4 @@ For example, if you want to have 3 clients, adjust NETWORK_ID in the client file
 * Client 2: NETWORK_ID 1
 * Client 3: NETWORK_ID 2
 
-Also remember to change MAX_CLIENTS to 3 (default: 1) in the host file. 
+Also remember to change MAX_CLIENTS to 3 (default: 1) in the host file, so the host is able to send data to every client. 
